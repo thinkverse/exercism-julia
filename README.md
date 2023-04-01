@@ -1,4 +1,4 @@
-# xercism Julia Track
+# Exercism Julia Track
 
 ## Running the tests
 
